@@ -1,18 +1,18 @@
-# 🌱 Global Clean Energy Monitoring Dashboard
+#  Global Clean Energy Monitoring Dashboard
 
 **Data:** World Bank Open Data | 214 Countries | 2010–2022 | 3,328 rows
 **Tool:** Microsoft Excel | **Author:** Vinodkumar Kethavath
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 An Excel-based analytics dashboard tracking global clean energy progress 
 across 214 countries over 12 years, built to support SDG 7 
 (Affordable and Clean Energy) analysis.
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 - 🔵 Global electricity access: **79.6% (2010) → 87.4% (2022)** (+7.8 pts)
 - 🔴 **23 countries** still below 50% electricity access in 2022
 - 🟢 CO2 per capita **fell 10%** since 2015
@@ -21,7 +21,7 @@ across 214 countries over 12 years, built to support SDG 7
 
 ---
 
-## 📁 Workbook Structure
+##  Workbook Structure
 
 | Sheet | Purpose |
 |---|---|
@@ -39,7 +39,7 @@ across 214 countries over 12 years, built to support SDG 7
 
 ---
 
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 - Excel PivotTables & PivotCharts
 - FILTER / VLOOKUP / INDEX-MATCH formulas
 - Conditional formatting & heat maps
