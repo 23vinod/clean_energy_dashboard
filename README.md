@@ -14,7 +14,7 @@ SDG 7 (Affordable and Clean Energy) analysis.
 
 # Key Findings
 - Global electricity access: 79.6% (2010) → 87.4% (2022) (+7.8 pts)
-- 23 countries*- still below 50% electricity access in 2022
+- 23 countries - still below 50% electricity access in 2022
 - CO2 per capita - fell 10% since 2015
 - 118 of 214 countrie reduced emissions since 2010
 - Renewable share nearly flat — biggest policy challenge ahead
@@ -22,7 +22,7 @@ SDG 7 (Affordable and Clean Energy) analysis.
 
 
 # Workbook Structure
-** Sheet - Purpose **
+**Sheet - Purpose**
 
 Master_Data - 3,328 rows, 23 engineered columns A–W 
  
