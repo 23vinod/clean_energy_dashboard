@@ -24,17 +24,27 @@ SDG 7 (Affordable and Clean Energy) analysis.
 **Workbook Structure**
 # Sheet | Purpose |
 
-| Master_Data | 3,328 rows, 23 engineered columns A–W |
-| Data_QA | Automated 7-check quality validation |
-| Calculations | Reusable KPI metrics hub |
-| Pivot_1 | Global trend 2010–2022 line chart |
-| Pivot_2 | Country averages comparison table |
-| Pivot_3 | 2022 heat map (3-metric color scale) |
-| Pivot_4 | Bottom 10 countries by electricity access |
-| Pivot_5 | Renewable vs CO2 scatter correlation |
-| Clean Energy Monitoring DB | Interactive KPI dashboard + year slicer |
-| Country Deep Dive(2022) | Risk classification for all 214 countries |
-| Ref_Data | Income group & region lookup table |
+Master_Data - 3,328 rows, 23 engineered columns A–W 
+ 
+Data_QA - Automated 7-check quality validation
+
+Calculations - Reusable KPI metrics hub 
+
+Pivot_1 - Global trend 2010–2022 line chart 
+
+Pivot_2 - Country averages comparison table 
+
+Pivot_3 - 2022 heat map (3-metric color scale) 
+
+Pivot_4 - Bottom 10 countries by electricity access 
+
+Pivot_5 - Renewable vs CO2 scatter correlation 
+
+Clean Energy Monitoring DB - Interactive KPI dashboard + year slicer
+
+Country Deep Dive(2022) - Risk classification for all 214 countries 
+
+Ref_Data - Income group & region lookup table 
 
 
 
